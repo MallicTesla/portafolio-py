@@ -12,20 +12,56 @@
         "github": "https://github.com/MallicTesla",
         "likedin": "https://www.linkedin.com/in/pablo-nu%C3%B1ez-tesla/"
     },
-    "about": ".",
+    "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub.\nMi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones.\nMi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Python"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
+            "name": "Dejango REST"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Tecnología"
-        }
+            "name": "Flask"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Riact"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Node"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Patrones de Diseño"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "DevOps"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Kubernetes"
+        },
     ],
     "experience": [
         {
