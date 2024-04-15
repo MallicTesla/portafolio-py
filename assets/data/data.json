@@ -1,16 +1,16 @@
 {
-    "title": "Franco Sangiacomo | Portafolio",
+    "title": "Pablo Nuñez | Portafolio",
     "description": "Full Stack Developer, with pleanty of experience in Backend and Mobile.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Franco Sangiacomo",
-    "skill": "Senior Software Engineer - Backend, Mobile & Web Developer",
-    "location": "Barcelon, Spain, Europe and the World",
+    "image": "/perfil 02.jpg",
+    "avatar": "/perfil 02.jpg",
+    "name": "Pablo Nuñez",
+    "skill": "Desarrollador Junior Full Stack",
+    "location": "Montevideo, Uruguay",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "El_mallic@hotmail.com",
+        "cv": "/data/0 Pablo Nuñez CV.pdf",
+        "github": "https://github.com/MallicTesla",
+        "likedin": "https://www.linkedin.com/in/pablo-nu%C3%B1ez-tesla/"
     },
     "about": ".",
     "technologies": [
