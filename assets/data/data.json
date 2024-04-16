@@ -67,12 +67,6 @@
         {
             "icon": "box-select",
             "title": "Trader",
-            "description": "Descripción",
-            "date": "Años"
-        },
-        {
-            "icon": "box-select",
-            "title": "Trader",
             "subtitle": "Subtítulo",
             "description": "Descripción",
             "date": "Años"
