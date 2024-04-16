@@ -65,14 +65,27 @@
     ],
     "experience": [
         {
-            "icon": "lucide lucide-rabbit css-svt5ra",
+            "icon": "lucide-rabbit css-svt5ra",
             "title": "Trader",
             "subtitle": "Subtítulo",
             "description": "Descripción",
             "date": "Años"
         },
         {
-            "icon": "box-select",
+            "icon": "lucide-candlestick-chart",
+            "title": "Trader",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "date": "Años"
+        },        {
+            "icon": "candlestick-chart",
+            "title": "Trader",
+            "subtitle": "Subtítulo",
+            "description": "Descripción",
+            "date": "Años"
+        },
+        {
+            "icon": "icon-candlestick-chart",
             "title": "Título",
             "subtitle": "Subtítulo",
             "description": "Descripción",
