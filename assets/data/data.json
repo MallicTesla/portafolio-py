@@ -19,11 +19,11 @@
             "name": "Python"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Dejango REST"
+            "icon": "devicon-django-plain",
+            "name": "Django REST"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-flasck-plain",
             "name": "Flask"
         },
         {
@@ -31,35 +31,35 @@
             "name": "Patrones de Diseño"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-javascript-plain",
             "name": "JavaScript"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Riact"
+            "icon": "devicon-react-plain",
+            "name": "React"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-node-plain",
             "name": "Node"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-html-plain",
             "name": "HTML"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-css-plain",
             "name": "CSS"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-devops-plain",
             "name": "DevOps"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-docker-plain",
             "name": "Docker"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-Kubernetes-plain",
             "name": "Kubernetes"
         }
     ],
