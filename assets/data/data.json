@@ -27,10 +27,6 @@
             "name": "Flask"
         },
         {
-            "icon": "devicon-docker-plain",
-            "name": "Docker"
-        },
-        {
             "icon": "devicon-postgresql-plain",
             "name": "PostgreSQL"
         },
@@ -51,15 +47,7 @@
             "name": "HTML5"
         },
         {
-            "icon": "devicon-Html-plain",
-            "name": "Html"
-        },
-        {
             "icon": "devicon-css3-plain",
-            "name": "CSS"
-        },
-        {
-            "icon": "devicon-css3-plain-wordmark",
             "name": "CSS"
         },
         {
@@ -77,7 +65,7 @@
     ],
     "experience": [
         {
-            "icon": "box-select",
+            "icon": "lucide lucide-rabbit css-svt5ra",
             "title": "Trader",
             "subtitle": "Subtítulo",
             "description": "Descripción",
