@@ -12,10 +12,10 @@
         "github": "https://github.com/MallicTesla",
         "likedin": "https://www.linkedin.com/in/pablo-nu%C3%B1ez-tesla/"
     },
-    "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub.\nMi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones.\nMi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
+    "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub. Mi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones. Mi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "/perfil 02.jpg",
             "name": "Python"
         },
         {
@@ -25,6 +25,10 @@
         {
             "icon": "devicon-devicon-plain",
             "name": "Flask"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Patrones de Diseño"
         },
         {
             "icon": "devicon-devicon-plain",
@@ -48,10 +52,6 @@
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Patrones de Diseño"
-        },
-        {
-            "icon": "devicon-devicon-plain",
             "name": "DevOps"
         },
         {
@@ -66,7 +66,13 @@
     "experience": [
         {
             "icon": "box-select",
-            "title": "Título",
+            "title": "Trader",
+            "description": "Descripción",
+            "date": "Años"
+        },
+        {
+            "icon": "box-select",
+            "title": "Trader",
             "subtitle": "Subtítulo",
             "description": "Descripción",
             "date": "Años"
