@@ -27,8 +27,12 @@
             "name": "Flask"
         },
         {
-            "icon": "devicon-patterns-plain",
-            "name": "Patrones de Diseño"
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
         },
         {
             "icon": "devicon-javascript-plain",
@@ -43,11 +47,19 @@
             "name": "Node"
         },
         {
-            "icon": "devicon-HTML-plain",
-            "name": "HTML"
+            "icon": "devicon-html5-plain",
+            "name": "HTML5"
         },
         {
-            "icon": "devicon-CSS-plain",
+            "icon": "devicon-Html-plain",
+            "name": "Html"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-css3-plain-wordmark",
             "name": "CSS"
         },
         {
