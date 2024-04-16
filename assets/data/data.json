@@ -23,11 +23,11 @@
             "name": "Django REST"
         },
         {
-            "icon": "devicon-flasck-plain",
+            "icon": "devicon-flask-plain",
             "name": "Flask"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-patterns-plain",
             "name": "Patrones de Diseño"
         },
         {
@@ -39,19 +39,19 @@
             "name": "React"
         },
         {
-            "icon": "devicon-node-plain",
+            "icon": "devicon-nodejs-plain",
             "name": "Node"
         },
         {
-            "icon": "devicon-html-plain",
+            "icon": "devicon-HTML-plain",
             "name": "HTML"
         },
         {
-            "icon": "devicon-css-plain",
+            "icon": "devicon-CSS-plain",
             "name": "CSS"
         },
         {
-            "icon": "devicon-devops-plain",
+            "icon": "devicon-devicon-plain",
             "name": "DevOps"
         },
         {
@@ -59,7 +59,7 @@
             "name": "Docker"
         },
         {
-            "icon": "devicon-Kubernetes-plain",
+            "icon": "devicon-kubernetes-plain",
             "name": "Kubernetes"
         }
     ],
