@@ -67,8 +67,8 @@
         {
             "icon": "candlestick-chart",
             "title": "Trader",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "subtitle": "Trader",
+            "description": "Buscando un \n asdasdasdasdas <br> cambio profesional radical y apoyado por la pandemia, aboqué mi tiempo a aprender y desempeñarme en el ámbito del trading.\nEsto me ayudó a estudiar, exigirme y superarme en disciplinas que nunca me hubiera imaginado, acercándome de a poco a la informática.",
             "date": "Años"
         },
         {
@@ -81,7 +81,7 @@
     ],
     "projects": [
         {
-            "icon": "box-select",
+            "icon": "candlestick-chart",
             "title": "Título",
             "subtitle": "Subtítulo",
             "description": "Descripción",
