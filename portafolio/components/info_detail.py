@@ -25,7 +25,8 @@ def info_detail(info: Info) -> rx.Component:
                             rx.badge(
                                 rx.box(class_name=technology.icon),
                                 technology.name,
-                                color_scheme="gray"
+                                color_scheme="gray",
+                                tag="arrow_up"
                             )
                             for technology in info.technologies
                         ],

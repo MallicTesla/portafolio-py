@@ -15,7 +15,7 @@
     "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub. Mi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones. Mi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
     "technologies": [
         {
-            "icon": "devicon-devicon-python",
+            "icon": "devicon-devicon-plain",
             "name": "Python"
         },
         {
