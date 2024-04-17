@@ -31,6 +31,10 @@
             "name": "PostgreSQL"
         },
         {
+            "icon": "devicon-devicon-plain",
+            "name": "Patrones de Diseño"
+        },
+        {
             "icon": "devicon-javascript-plain",
             "name": "JavaScript"
         },
@@ -68,15 +72,15 @@
             "icon": "candlestick-chart",
             "title": "Trader",
             "subtitle": "Trader",
-            "description": "Buscando un \n asdasdasdasdas <br> cambio profesional radical y apoyado por la pandemia, aboqué mi tiempo a aprender y desempeñarme en el ámbito del trading.\nEsto me ayudó a estudiar, exigirme y superarme en disciplinas que nunca me hubiera imaginado, acercándome de a poco a la informática.",
-            "date": "Años"
+            "description": "Buscando un cambio profesional radical y apoyado por la pandemia, aboqué mi tiempo a aprender y desempeñarme en el ámbito del trading. Esto me ayudó a estudiar, exigirme y superarme en disciplinas que nunca me hubiera imaginado, acercándome de a poco a la informática.",
+            "date": "2019 - actualidad"
         },
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años"
+            "icon": "plug-2",
+            "title": "Electricista - Italia",
+            "subtitle": "Electricista",
+            "description": "Residí en Italia y desempeñando tareas como electricista",
+            "date": "2018 - 2019"
         }
     ],
     "projects": [
