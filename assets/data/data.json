@@ -81,6 +81,27 @@
             "subtitle": "Electricista",
             "description": "Residí en Italia y desempeñando tareas como electricista",
             "date": "2018 - 2019"
+        },
+        {
+            "icon": "plug-2",
+            "title": "Electricista - Herrero",
+            "subtitle": "Electricista - Herrero",
+            "description": "Electricista domiciliario y herrero independiente.",
+            "date": "2017 - 2018"
+        },
+        {
+            "icon": "hard-hat",
+            "title": "CCH Instalaciones",
+            "subtitle": "Oficial electricista",
+            "description": "Mis responsabilidades incluyeron inicialmente el trabajo como peón electricista, seguido de un año como encargado de depósito y finalmente, un año como oficial electricista a cargo de una cuadrilla de mantenimiento.",
+            "date": "2014 - 2017"
+        },
+        {
+            "icon": "hard-hat",
+            "title": "RFK",
+            "subtitle": "Electricista",
+            "description": "A los 17 años, tuve mi primera experiencia laboral como electricista, trabajando junto a un vecino durante dos años mientras completaba mis estudios.",
+            "date": "2012- 2014"
         }
     ],
     "projects": [
