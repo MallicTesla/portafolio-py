@@ -106,61 +106,65 @@
     ],
     "projects": [
         {
-            "icon": "candlestick-chart",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "icon": "book-open-check",
+            "title": "To Do List",
+            "subtitle": "To Do List e Inicio de sesion",
+            "description": "Este es un proyecto hecho con Django en el que puedes crear un usuario y guardar una lista de tareas por hacer, que fue desplegado en los servidores de Render.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-django-plain",
+                    "name": "Django"
                 },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/Inicio_sesion.png",
+            "url": "https://inicio-sesion.onrender.com/",
+            "github": "https://github.com/MallicTesla/django_render"
         },
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "icon": "shopping-cart",
+            "title": "E-Commerce",
+            "subtitle": "E-Commerce Django React",
+            "description": "Una tienda digital hecha con Django REST para el backend y para el frontend utilicé React. El proyecto lo realicé como una guía personal y sin estilo para desarrollar algo mejor próximamente.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-djangorest-plainn",
+                    "name": "Django REST"
                 },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-react-original",
+                    "name": "React"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/ECommerce.png",
+            "url": "https://github.com/MallicTesla/Ecommerce_con_full_api",
+            "github": "https://github.com/MallicTesla/Ecommerce_con_full_api"
         },
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
+            "icon": "youtube",
+            "title": "Descargar Videos y MP3",
+            "subtitle": "Descargar Videos y MP3 de You Tube",
+            "description": "Una aplicación de escritorio realizada con Python y Tkinter para descargar videos y audios en MP3 de YouTube, y también se pueden descargar listas de reproducción que sean públicas.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
                 },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnología"
+                    "icon": "devicon-feathersjs-original",
+                    "name": "Tkinter"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/Descargar-YouTube.png",
+            "url": "https://github.com/MallicTesla/Descargar-Videos-YouTube",
+            "github": "https://github.com/MallicTesla/Descargar-Videos-YouTube"
         }
     ],
     "training": [
