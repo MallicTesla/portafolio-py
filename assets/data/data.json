@@ -6,13 +6,16 @@
     "name": "Pablo Nuñez",
     "skill": "Desarrollador Junior Full Stack",
     "location": "Montevideo, Uruguay",
+
     "media": {
         "email": "El_mallic@hotmail.com",
         "cv": "/data/0 Pablo Nuñez CV.pdf",
         "github": "https://github.com/MallicTesla",
         "likedin": "https://www.linkedin.com/in/pablo-nu%C3%B1ez-tesla/"
     },
+
     "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub. Mi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones. Mi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
+
     "technologies": [
         {
             "icon": "devicon-python-plain",
@@ -67,6 +70,7 @@
             "name": "Kubernetes"
         }
     ],
+
     "experience": [
         {
             "icon": "candlestick-chart",
@@ -104,6 +108,7 @@
             "date": "2012- 2014"
         }
     ],
+
     "projects": [
         {
             "icon": "book-open-check",
@@ -167,17 +172,109 @@
             "github": "https://github.com/MallicTesla/Descargar-Videos-YouTube"
         }
     ],
+
     "training": [
         {
-            "icon": "box-select",
-            "title": "Título",
-            "subtitle": "Subtítulo",
-            "description": "Descripción",
-            "date": "Años",
-            "certificate": "https://google.com"
+            "icon": "book-marked",
+            "title": "IBM Full Stack Certificate",
+            "subtitle": "IBM Full Stack Software Developer Professional Certificate",
+            "description": "Certificado profesional: serie de 12 cursos. Aprenderá a construir, desplegar, probar, ejecutar y gestionar aplicaciones nativas de la nube Full stack. Las tecnologías cubiertas incluyen Fundamentos de la nube, GitHub, Node.js, React, CI/CD, Contenedores, Docker, Kubernetes, OpenShift, Istio, Bases de datos, NoSQL, Django ORM, Bootstrap, Seguridad de aplicaciones, Microservicios, Computación sin servidor y más.",
+            "date": "5/10/2023 - 30/1/2024",
+            "certificate": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
+        },
+        {
+            "icon": "server",
+            "title": "Microservices and Serverless",
+            "subtitle": "Application Development using Microservices and Serverless",
+            "description": "Fundamentos y ventajas de microservicios. Creación y despliegue de microservicios con Docker y tecnologías sin servidor. Práctica con laboratorios en un entorno basado en la nube.",
+            "date": "30/12/2023 - 6/1/2024",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/KASMZ22B8Y7X"
+        },
+        {
+            "icon": "container",
+            "title": "Docker, Kubernetes & OpenShift",
+            "subtitle": "Introduction to Containers with Docker, Kubernetes & OpenShift",
+            "description": "Creación de aplicaciones nativas de la nube con contenedores. Utilización de Docker, Kubernetes, OpenShift e Istio. Configuración y gestión de contenedores con archivos YAML.",
+            "date": "23/12/2023 - 30/12/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/SYP7KJFWN5CR"
+        },
+        {
+            "icon": "database",
+            "title": "Django SQL and Databases",
+            "subtitle": "Django Application Development with SQL and Databases",
+            "description": "Diseño de modelos de datos entidad-relación. Consultas SQL y uso de Django ORM. Integración de Bootstrap en plantillas Django.",
+            "date": "10/12/2023 - 18/12/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/34KWP5RB9HAH"
+        },
+        {
+            "icon": "bot",
+            "title": "Python for Data Science",
+            "subtitle": "Python for Data Science, AI & Development",
+            "description": "Fundamentos de Python y aplicación en ciencia de datos. Uso de bibliotecas como Pandas y Numpy. Acceso y manipulación de datos web mediante APIs.",
+            "date": "1/12/2023 - 7/12/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/SXJY39Z9DU69"
+        },
+        {
+            "icon": "database-backup",
+            "title": "Back-End Node.js and Express",
+            "subtitle": "Developing Back-End Apps with Node.js and Express",
+            "description": "Creación de aplicaciones del lado del servidor con Node.js. Ampliación de aplicaciones con Express y paquetes de terceros. Uso de npm para gestionar paquetes Node.js y operaciones asíncronas",
+            "date": "22/11/2023 - 27/11/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/L7ATSHL54UHS"
+        },
+        {
+            "icon": "app-window",
+            "title": "Front-End with React",
+            "subtitle": "Developing Front-End Apps with React",
+            "description": "Construcción de interfaces interactivas y aplicaciones web con React. Utilización de componentes reutilizables. Comunicación con servicios externos mediante solicitudes HTTP.",
+            "date": "18/11/2023 - 21/11/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/5UDS4Z2RP6D7"
+        },
+        {
+            "icon": "github",
+            "title": "Git and GitHub",
+            "subtitle": "Getting Started with Git and GitHub",
+            "description": "Comprenderás el papel esencial del control de versiones. Dominarás los conceptos fundamentales de Git, incluyendo la gestión de repositorios y ramas, lo que te permitirá participar en proyectos de desarrollo de software de manera más eficaz. Serás capaz de crear y gestionar repositorios y ramas en GitHub, facilitando la colaboración en equipo mediante pull requests y operaciones de fusión.",
+            "date": "14/11/2023 - 17/11/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/3MYGNNLVJALF"
+        },
+        {
+            "icon": "app-window",
+            "title": "HTML, CSS, JavaScript",
+            "subtitle": "Introduction to Web Development with HTML, CSS, JavaScript",
+            "description": "Ecosistema de desarrollo web y roles (front-end, back-end, full stack). Creación y estructuración de páginas web con HTML y estilización con CSS. Desarrollo de páginas web dinámicas con funciones interactivas usando JavaScript.",
+            "date": "9/11/2023 - 14/11/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/2MJNVELNNF68"
+        },
+        {
+            "icon": "cloudy",
+            "title": "Cloud",
+            "subtitle": "Introduction to Cloud Computing",
+            "description": "Definición y características esenciales de la computación en nube. Modelos de servicio y despliegue en la nube. Tendencias emergentes como HybridMulticloud, Microservicios y DevOps. Conocimiento detallado de plataformas en la nube populares.",
+            "date": "1/11/2023 - 9/11/2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/verify/3V2YHTXC9N9G"
         }
     ],
+
     "extras": [
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Título",
+            "description": "Descripción",
+            "url": ""
+        },
         {
             "image": "/favicon.ico",
             "title": "Título",
