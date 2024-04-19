@@ -14,7 +14,7 @@
         "likedin": "https://www.linkedin.com/in/pablo-nu%C3%B1ez-tesla/"
     },
 
-    "about": "¡Hola! Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python. Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub. Mi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones. Mi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software. Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
+    "about": "¡Hola!Soy Pablo, desarrollador junior. Desde que inicié mi carrera, me he centrado en el desarrollo back-end con Python.</br>Hace un tiempo, me he dedicado a mejorar mis habilidades como desarrollador full-stack y DevOps. Tengo varios proyectos en mi GitHub.</br>Mi pasión por la programación radica en su capacidad para resolver problemas y crear soluciones.</br>Mi objetivo es seguir creciendo como desarrollador, aprovechando mi experiencia previa y mi entusiasmo por el desarrollo de software.</br>Estoy buscando oportunidades emocionantes para contribuir a proyectos y equipos comprometidos.",
 
     "technologies": [
         {
@@ -68,44 +68,6 @@
         {
             "icon": "devicon-kubernetes-plain",
             "name": "Kubernetes"
-        }
-    ],
-
-    "experience": [
-        {
-            "icon": "candlestick-chart",
-            "title": "Trader",
-            "subtitle": "Trader",
-            "description": "Buscando un cambio profesional radical y apoyado por la pandemia, aboqué mi tiempo a aprender y desempeñarme en el ámbito del trading. Esto me ayudó a estudiar, exigirme y superarme en disciplinas que nunca me hubiera imaginado, acercándome de a poco a la informática.",
-            "date": "2019 - actualidad"
-        },
-        {
-            "icon": "plug-2",
-            "title": "Electricista - Italia",
-            "subtitle": "Electricista",
-            "description": "Residí en Italia y desempeñando tareas como electricista",
-            "date": "2018 - 2019"
-        },
-        {
-            "icon": "plug-2",
-            "title": "Electricista - Herrero",
-            "subtitle": "Electricista - Herrero",
-            "description": "Electricista domiciliario y herrero independiente.",
-            "date": "2017 - 2018"
-        },
-        {
-            "icon": "hard-hat",
-            "title": "CCH Instalaciones",
-            "subtitle": "Oficial electricista",
-            "description": "Mis responsabilidades incluyeron inicialmente el trabajo como peón electricista, seguido de un año como encargado de depósito y finalmente, un año como oficial electricista a cargo de una cuadrilla de mantenimiento.",
-            "date": "2014 - 2017"
-        },
-        {
-            "icon": "hard-hat",
-            "title": "RFK",
-            "subtitle": "Electricista",
-            "description": "A los 17 años, tuve mi primera experiencia laboral como electricista, trabajando junto a un vecino durante dos años mientras completaba mis estudios.",
-            "date": "2012- 2014"
         }
     ],
 
@@ -173,12 +135,50 @@
         }
     ],
 
+    "experience": [
+        {
+            "icon": "candlestick-chart",
+            "title": "Trader",
+            "subtitle": "Trader",
+            "description": "Buscando un cambio profesional radical y apoyado por la pandemia, aboqué mi tiempo a aprender y desempeñarme en el ámbito del trading. Esto me ayudó a estudiar, exigirme y superarme en disciplinas que nunca me hubiera imaginado, acercándome de a poco a la informática.",
+            "date": "2019 - actualidad"
+        },
+        {
+            "icon": "plug-2",
+            "title": "Electricista - Italia",
+            "subtitle": "Electricista",
+            "description": "Residí en Italia y desempeñando tareas como electricista",
+            "date": "2018 - 2019"
+        },
+        {
+            "icon": "plug-2",
+            "title": "Electricista - Herrero",
+            "subtitle": "Electricista - Herrero",
+            "description": "Electricista domiciliario y herrero independiente.",
+            "date": "2017 - 2018"
+        },
+        {
+            "icon": "hard-hat",
+            "title": "CCH Instalaciones",
+            "subtitle": "Oficial electricista",
+            "description": "Mis responsabilidades incluyeron inicialmente el trabajo como peón electricista, seguido de un año como encargado de depósito y finalmente, un año como oficial electricista a cargo de una cuadrilla de mantenimiento.",
+            "date": "2014 - 2017"
+        },
+        {
+            "icon": "hard-hat",
+            "title": "RFK",
+            "subtitle": "Electricista",
+            "description": "A los 17 años, tuve mi primera experiencia laboral como electricista, trabajando junto a un vecino durante dos años mientras completaba mis estudios.",
+            "date": "2012- 2014"
+        }
+    ],
+
     "training": [
         {
             "icon": "book-marked",
             "title": "IBM Full Stack Certificate",
             "subtitle": "IBM Full Stack Software Developer Professional Certificate",
-            "description": "Certificado profesional: serie de 12 cursos. Aprenderá a construir, desplegar, probar, ejecutar y gestionar aplicaciones nativas de la nube Full stack. Las tecnologías cubiertas incluyen Fundamentos de la nube, GitHub, Node.js, React, CI/CD, Contenedores, Docker, Kubernetes, OpenShift, Istio, Bases de datos, NoSQL, Django ORM, Bootstrap, Seguridad de aplicaciones, Microservicios, Computación sin servidor y más.",
+            "description": "Certificado profesional: serie de 12 cursos. Aprendi a construir, desplegar, probar, ejecutar y gestionar aplicaciones nativas de la nube Full stack.</br>Las tecnologías cubiertas incluyen Fundamentos de la nube, GitHub, Node.js, React, CI/CD, Contenedores, Docker, Kubernetes, OpenShift, Istio, Bases de datos, NoSQL, Django ORM, Bootstrap, Seguridad de aplicaciones, Microservicios, Computación sin servidor y más.",
             "date": "5/10/2023 - 30/1/2024",
             "certificate": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer"
         },
@@ -234,7 +234,7 @@
             "icon": "github",
             "title": "Git and GitHub",
             "subtitle": "Getting Started with Git and GitHub",
-            "description": "Comprenderás el papel esencial del control de versiones. Dominarás los conceptos fundamentales de Git, incluyendo la gestión de repositorios y ramas, lo que te permitirá participar en proyectos de desarrollo de software de manera más eficaz. Serás capaz de crear y gestionar repositorios y ramas en GitHub, facilitando la colaboración en equipo mediante pull requests y operaciones de fusión.",
+            "description": "Comprendí el papel esencial del control de versiones. He comprendí los conceptos fundamentales de Git, incluyendo la gestión de repositorios y ramas, lo que me ha permitido participar en proyectos de desarrollo de software de manera más eficaz. He sido capaz de crear y gestionar repositorios y ramas en GitHub, facilitando la colaboración en equipo mediante pull requests y operaciones de fusión.",
             "date": "14/11/2023 - 17/11/2023",
             "certificate": "https://www.coursera.org/account/accomplishments/verify/3MYGNNLVJALF"
         },
@@ -250,7 +250,7 @@
             "icon": "cloudy",
             "title": "Cloud",
             "subtitle": "Introduction to Cloud Computing",
-            "description": "Definición y características esenciales de la computación en nube. Modelos de servicio y despliegue en la nube. Tendencias emergentes como HybridMulticloud, Microservicios y DevOps. Conocimiento detallado de plataformas en la nube populares.",
+            "description": "Definición y características esenciales de la computación en nube. Modelos de servicio y despliegue en la nube. Tendencias emergentes como HybridMulticloud, Microservicios y DevOps.</br>Conocimiento detallado de plataformas en la nube populares.",
             "date": "1/11/2023 - 9/11/2023",
             "certificate": "https://www.coursera.org/account/accomplishments/verify/3V2YHTXC9N9G"
         }

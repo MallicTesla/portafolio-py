@@ -13,7 +13,7 @@ def info_detail(info: Info) -> rx.Component:
             rx.vstack(
                 rx.text.strong(info.title),
                 rx.text(info.subtitle),
-                rx.text(
+                rx.html(
                     info.description,
                     size=Size.SMALL.value,
                     color_scheme="gray"
@@ -55,6 +55,7 @@ def info_detail(info: Info) -> rx.Component:
             spacing=Size.DEFAULT.value,
             width="100%"
         ),
+
         rx.cond(
             info.image != "",
             rx.image(
@@ -65,6 +66,7 @@ def info_detail(info: Info) -> rx.Component:
                 object_fit="cover"
             )
         ),
+
         rx.vstack(
             rx.cond(
                 info.date != "",
