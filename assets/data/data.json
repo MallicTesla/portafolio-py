@@ -270,7 +270,7 @@
             "url": "https://github.com/MallicTesla/Mis_primeros_pasos/tree/main/Programacion/007-Juego%20laberinto"
         },
         {
-            "image": "/Agenda.pog",
+            "image": "/Agenda.png",
             "title": "Agenda",
             "description": "La primera agenda que hice con Django en la que se pueden agrupar los contactos.",
             "url": "https://github.com/MallicTesla/Mis_primeros_pasos/tree/main/Programacion/008-Agenda%20django"
