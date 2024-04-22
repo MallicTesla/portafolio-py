@@ -6,9 +6,8 @@ def barra_nav() -> rx.Component:
     S_about_id = portafolio.S_about.replace(" ", "-")
 
 
-
     return rx.hstack(
-        rx.link (portafolio.S_about, href="#"+S_about_id),
+        rx.link (portafolio.S_about, href=S_about_id),
         rx.link ("Tecnologías", href="#Tecnologías"),
         rx.link ("Proyectos", href="#Proyectos"),
         rx.link ("Experiencia", href="#Experiencia"),
