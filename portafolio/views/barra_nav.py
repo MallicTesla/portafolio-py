@@ -1,17 +1,14 @@
 import reflex as rx
+from portafolio import portafolio
 
-"""
-Sobre-mí
-Tecnologías
-Proyectos
-Experiencia
-Formación
-Extra
-"""
 
 def barra_nav() -> rx.Component:
+    S_about_id = portafolio.S_about.replace(" ", "-")
+
+
+
     return rx.hstack(
-        rx.link ("Sobre mí", href="#Sobre-mí"),
+        rx.link (portafolio.S_about, href="#"+S_about_id),
         rx.link ("Tecnologías", href="#Tecnologías"),
         rx.link ("Proyectos", href="#Proyectos"),
         rx.link ("Experiencia", href="#Experiencia"),
