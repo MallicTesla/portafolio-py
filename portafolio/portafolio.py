@@ -7,21 +7,32 @@ from portafolio.views.footer import footer
 from portafolio.views.header import header
 from portafolio.views.info import info
 from portafolio.views.tech_stack import tech_stack
+from portafolio.views.barra_nav import barra_nav
 
 DATA = data.data
+
+# Titulos de las secciones
+S_about = "Sobre mí"
+S_technologies = "Tecnologías"
+S_projects = "Proyectos"
+S_experience = "Experiencia"
+S_training = "Formación"
+S_extras = "Extra"
 
 
 def index() -> rx.Component:
     return rx.center(
         # rx.theme_panel(),
         rx.vstack(
+            barra_nav(),
+            rx.divider(),
             header(DATA),
             about(DATA.about),
             rx.divider(),
             tech_stack(DATA.technologies),
-            info("Proyectos", DATA.projects),
-            info("Experiencia", DATA.experience),
-            info("Formación", DATA.training),
+            info(S_projects, DATA.projects),
+            info(S_experience, DATA.experience),
+            info(S_training, DATA.training),
             extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),
